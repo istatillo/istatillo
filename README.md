@@ -11,7 +11,7 @@ SASS<br />
 REACT JS<br />
 REDUX
 
-    <br />
+<br />
     
 - 📍 &nbsp; Current location: Surxondaryo, Uzbekistan
 - 💬 &nbsp; Ask me about anything, I am happy to help
