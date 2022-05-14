@@ -3,9 +3,9 @@ I Frontend Developer! <br />
 I work remotely and like to travelalot.
 <br />
 ### Languages and tools I work with:
-HTML<br />
-CSS<br />
-JS<br />
+HTML 5<br />
+CSS 3<br />
+JS (ES6+)<br />
 BOOTSTRAP 5<br />
 SASS<br />
 REACT JS<br />
