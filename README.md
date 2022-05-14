@@ -3,12 +3,12 @@ I Frontend Developer! <br />
 I work remotely and like to travelalot.
 <br />
 ### Languages and toolsIwork with:
-HTML
-CSS
-JS
-BOOTSTRAP 5
-SASS
-REACT JS
+HTML<br />
+CSS<br />
+JS<br />
+BOOTSTRAP 5<br />
+SASS<br />
+REACT JS<br />
 REDUX
 
     <br />
