@@ -2,7 +2,7 @@
 I Frontend Developer! <br />
 I work remotely and like to travelalot.
 <br />
-### Languages and toolsIwork with:
+### Languages and tools I work with:
 HTML<br />
 CSS<br />
 JS<br />
