@@ -1,4 +1,4 @@
-### Hi, I'm Istatillo Jo'rayev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+### Hi, I'm Istatillo Jo'rayev
 I Frontend Developer! <br />
 I work remotely and like to travelalot.
 ### Languages and tools I work with:
